@@ -10,4 +10,4 @@ Begin
 		now change a=b,b=c
 		increment i=i+1
 	print out c 
-end 
+End 
