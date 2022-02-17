@@ -1,0 +1,10 @@
+Begin 
+	Declare variable a,r,d,n
+	enter the value of n 
+	perform division by a=3 
+	and find remainder r
+
+	check if r=0
+		show number is divisible by 3
+	or
+		show number is not divisible by 3 

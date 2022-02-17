@@ -1,0 +1,13 @@
+#Fibonacci number of Nth index
+
+Begin
+	Declare variable a,b,c,n.i
+	assign as a,b,c=1,1,3
+	Enter value for n
+	
+	whlie loop 1<=a
+		perform a+b=c
+		now change a=b,b=c
+		increment i=i+1
+	print out c 
+end 
