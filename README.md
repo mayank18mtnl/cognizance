@@ -16,8 +16,9 @@ The idea of the webpage arised due to the effect and story that the
 character brought in the anime series naruto shipudden.
 
 
-The webpage is a prototype landing page for the website  of rinne search which 
-- 
+The webpage is a prototype landing page for the website  of rinne search which used for
+- Various fan groups website 
+- Gaming websites 
 
 
 https://www.figma.com/file/qe6f1OqKkT9eTqCcEprVwC/task-3?node-id=3%3A3
