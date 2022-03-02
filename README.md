@@ -11,7 +11,7 @@ This website is solely dedicated for
 
 The site is based on the dark fear which Madara beared with his name.
 
-![madara](images/)
+![madara](images/task-3landopage.png)
 
 The idea of the webpage arised due to the effect and story that the\
 character brought in the anime series **Naruto shipudden**.
