@@ -1,4 +1,6 @@
-# cognizance
-newbe
-hi hello world 
-welcome to the sea
+# Madara Uchiha
+## Rinne search 
+
+
+
+https://www.figma.com/file/qe6f1OqKkT9eTqCcEprVwC/task-3?node-id=3%3A3
