@@ -12,12 +12,12 @@ This website is solely dedicated for
 The site is based on the dark fear which Madara beared with his name.
 
 The idea of the webpage arised due to the effect and story that the\
-character brought in the anime series naruto shipudden.
+character brought in the anime series **Naruto shipudden**.
 
 
-The webpage is a prototype landing page for the website  of rinne search which used for
-- Various fan groups website 
-- Gaming websites 
+The webpage is a prototype landing page for the website  of ***RINNE SEARCH*** which is used for
+- Various fan groups  communities website 
+- Gaming and Telecast  websites 
 
 
-https://www.figma.com/file/qe6f1OqKkT9eTqCcEprVwC/task-3?node-id=3%3A3
+![](images/task-3NEW%20PAGE%20.png) 
