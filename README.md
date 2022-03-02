@@ -6,7 +6,7 @@
 This website is solely dedicated for 
 
 
-**Madara** his Fans
+**Madara** and his Fans.
 > the ghost of uchiha
 
 The site is based on the dark fear which Madara beared with his name.
