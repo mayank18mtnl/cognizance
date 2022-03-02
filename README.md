@@ -3,8 +3,8 @@
 
 *this website is for the weebs who are fond of the anime **Naruto** and its character*
 
-This website is solely dedicated for the **Madara**\ 
-enthusisats
+This website is solely dedicated for the\ 
+**Madara** enthusisats
 > the ghost of uchiha
 
 
